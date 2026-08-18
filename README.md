@@ -1,5 +1,18 @@
 # 🚀 Hackatón 0 – CS2031
 
+## 🌐 Página desplegada — equipo P
+
+**https://alissonbrena-dotcom.github.io/archivo-2031--AriAli-/**
+
+| | |
+|---|---|
+| Equipo | **P** — cinta `incidente/equipo-P.bundle` |
+| Integrantes | Alisson Breña ([@alissonbrena-dotcom](https://github.com/alissonbrena-dotcom)) · Ariana Isla ([@aisla9](https://github.com/aisla9)) |
+| Sello | `CATALIZA-ORACULO` |
+| Informe | [`bitacora/INFORME.md`](bitacora/INFORME.md) |
+
+---
+
 ¡Bienvenidos! 🎉
 Desde el curso **CS2031** les damos una cordial bienvenida al ciclo **2026-2**. El foco sigue siendo el mismo que siempre: colaboración bajo presión, conflictos de Git y trabajo en equipo real.
 
